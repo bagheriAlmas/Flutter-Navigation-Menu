@@ -10,3 +10,8 @@ for Android & iOS $ Web
 # output
 
 ![](output.gif)
+
+![](output_ios.gif)
+
+![](output_web.gif)
+
