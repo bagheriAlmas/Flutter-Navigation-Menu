@@ -9,8 +9,12 @@ for Android & iOS $ Web
 
 # output
 
+## Android
 ![](output.gif)
+
+## iOS
 ![](output_ios.gif)
 
+## Web
 ![](output_web.gif)
 
