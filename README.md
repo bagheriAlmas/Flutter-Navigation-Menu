@@ -1,6 +1,9 @@
 # flutter_navigation_menu_animated
 
-A new Flutter project.
+Flutter Navigation Menu 
+Includ Animation
+
+for Android & iOS $ Web
 
 ## Getting Started
 
